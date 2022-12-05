@@ -1,5 +1,8 @@
 <strong>This project was carried out during a course on the Alura platform</strong>
 
+https://danillodamian.github.io/JSProject/
+
+
 In this project I created an example of a system for registering patients, which automatically calculates the body mass index (BMI).
 <img height="360em" src="https://github.com/DanilloDamian/JSProject/blob/main/Content/img/Screenshot_1.png"/>
 
